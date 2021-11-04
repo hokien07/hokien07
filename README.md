@@ -20,6 +20,10 @@ That mean I can get a project done from start to finish with awesome technical s
 - Github Actions
 - Gitlab CI
 
+#### Mobile
+- Android - Java / Flutter / Kotlin
+- IOS - Flutter
+
 🌱 A Real Project is Worth More Than a Thousand Words ...
 Let see my projects:
 - **Okuro**: Education management system build with Laravel 7.x & VueJS 2.x 
