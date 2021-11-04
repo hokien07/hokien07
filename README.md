@@ -23,7 +23,7 @@ That mean I can get a project done from start to finish with awesome technical s
 🌱 A Real Project is Worth More Than a Thousand Words ...
 Let see my projects:
 - **Okuro**: Education management system build with Laravel 7.x & VueJS 2.x 
-- **HRMS**: HR management system build with NestJS 8.x and NuxtJS 2.x comming soon..).
+- **HRMS**: HR management system build with NestJS 8.x and NuxtJS 2.x (comming soon..).
 
 
 
