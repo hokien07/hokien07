@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**hokien07/hokien07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kien, a Full-Stack Software Engineer.
 
-Here are some ideas to get you started:
+That mean I can get a project done from start to finish with awesome technical stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Backend
+- PHP - Laravel / Zend / Codeigniter / Wordpress
+- Nodejs - Express / NestJS
+
+#### Frontend
+- Javascript
+- VueJS - NuxtJS
+- JQuery
+- Bootstrap
+
+#### Devops
+- Docker
+- Linux
+- Github Actions
+- Gitlab CI
+
+🌱 A Real Project is Worth More Than a Thousand Words ...
+Let see my projects:
+- **Okuro**: Education management system build with Laravel 7.x & VueJS 2.x 
+- **HRMS**: HR management system build with NestJS 8.x and NuxtJS 2.x comming soon..).
+
+
+
