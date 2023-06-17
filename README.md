@@ -7,6 +7,7 @@ That mean I can get a project done from start to finish with awesome technical s
 #### Backend
 - PHP - Laravel / Zend / Codeigniter / Wordpress
 - Nodejs - Express / NestJS
+- Python - Django
 
 #### Frontend
 - Javascript
@@ -15,7 +16,7 @@ That mean I can get a project done from start to finish with awesome technical s
 - Bootstrap
 
 #### Devops
-- Docker
+- Docker - Swarm / K8
 - Linux
 - Github Actions
 - Gitlab CI
@@ -23,6 +24,11 @@ That mean I can get a project done from start to finish with awesome technical s
 #### Mobile
 - Android - Java / Flutter / Kotlin
 - IOS - Flutter
+
+#### Desktop
+- Java
+- C# - Winform
+
 
 🌱 A Real Project is Worth More Than a Thousand Words ...
 Let see my projects:
